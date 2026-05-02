@@ -1,6 +1,6 @@
 # Migration of MySQL Databases to Cloud AWS using AWS DMS
 
-NOTE: This project is in progress, kinldy swtich to `dev` branch & see the progress.
+NOTE: This project is in progress to amke it more up to date, kinldy swtich to `dev` branch & see the progress.
 
 ## Business Overview:
 
